@@ -1,0 +1,11 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(FAB79AC9-F9B8-4CD1-9C56-82236AA67032.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+h1{
+	color: white;
